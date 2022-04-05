@@ -1,0 +1,11 @@
+package com.example.SpringCrud;
+
+public class Employee {
+	private long id;
+	private String name;
+	private String location;
+	private long salary;
+	private String email;
+	
+
+}
